@@ -1,0 +1,24 @@
+C:\Middleware\Common.Utility\bin\Debug\net6.0\Common.Utility.deps.json
+C:\Middleware\Common.Utility\bin\Debug\net6.0\Common.Utility.dll
+C:\Middleware\Common.Utility\bin\Debug\net6.0\Common.Utility.pdb
+C:\Middleware\Common.Utility\obj\Debug\net6.0\Common.Utility.csproj.AssemblyReference.cache
+C:\Middleware\Common.Utility\obj\Debug\net6.0\Common.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Middleware\Common.Utility\obj\Debug\net6.0\Common.Utility.AssemblyInfoInputs.cache
+C:\Middleware\Common.Utility\obj\Debug\net6.0\Common.Utility.AssemblyInfo.cs
+C:\Middleware\Common.Utility\obj\Debug\net6.0\Common.Utility.csproj.CoreCompileInputs.cache
+C:\Middleware\Common.Utility\obj\Debug\net6.0\Common.Utility.dll
+C:\Middleware\Common.Utility\obj\Debug\net6.0\refint\Common.Utility.dll
+C:\Middleware\Common.Utility\obj\Debug\net6.0\Common.Utility.pdb
+C:\Middleware\Common.Utility\obj\Debug\net6.0\ref\Common.Utility.dll
+C:\Mohamad Itani Microservices\Common.Utility\bin\Debug\net6.0\Common.Utility.deps.json
+C:\Mohamad Itani Microservices\Common.Utility\bin\Debug\net6.0\Common.Utility.dll
+C:\Mohamad Itani Microservices\Common.Utility\bin\Debug\net6.0\Common.Utility.pdb
+C:\Mohamad Itani Microservices\Common.Utility\obj\Debug\net6.0\Common.Utility.csproj.AssemblyReference.cache
+C:\Mohamad Itani Microservices\Common.Utility\obj\Debug\net6.0\Common.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mohamad Itani Microservices\Common.Utility\obj\Debug\net6.0\Common.Utility.AssemblyInfoInputs.cache
+C:\Mohamad Itani Microservices\Common.Utility\obj\Debug\net6.0\Common.Utility.AssemblyInfo.cs
+C:\Mohamad Itani Microservices\Common.Utility\obj\Debug\net6.0\Common.Utility.csproj.CoreCompileInputs.cache
+C:\Mohamad Itani Microservices\Common.Utility\obj\Debug\net6.0\Common.Utility.dll
+C:\Mohamad Itani Microservices\Common.Utility\obj\Debug\net6.0\refint\Common.Utility.dll
+C:\Mohamad Itani Microservices\Common.Utility\obj\Debug\net6.0\Common.Utility.pdb
+C:\Mohamad Itani Microservices\Common.Utility\obj\Debug\net6.0\ref\Common.Utility.dll

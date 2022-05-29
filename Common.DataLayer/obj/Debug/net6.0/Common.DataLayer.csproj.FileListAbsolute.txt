@@ -1,0 +1,24 @@
+C:\Middleware\Common.DataLayer\obj\Debug\net6.0\Common.DataLayer.csproj.AssemblyReference.cache
+C:\Middleware\Common.DataLayer\obj\Debug\net6.0\Common.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Middleware\Common.DataLayer\obj\Debug\net6.0\Common.DataLayer.AssemblyInfoInputs.cache
+C:\Middleware\Common.DataLayer\obj\Debug\net6.0\Common.DataLayer.AssemblyInfo.cs
+C:\Middleware\Common.DataLayer\obj\Debug\net6.0\Common.DataLayer.csproj.CoreCompileInputs.cache
+C:\Middleware\Common.DataLayer\bin\Debug\net6.0\Common.DataLayer.deps.json
+C:\Middleware\Common.DataLayer\bin\Debug\net6.0\Common.DataLayer.dll
+C:\Middleware\Common.DataLayer\bin\Debug\net6.0\Common.DataLayer.pdb
+C:\Middleware\Common.DataLayer\obj\Debug\net6.0\Common.DataLayer.dll
+C:\Middleware\Common.DataLayer\obj\Debug\net6.0\refint\Common.DataLayer.dll
+C:\Middleware\Common.DataLayer\obj\Debug\net6.0\Common.DataLayer.pdb
+C:\Middleware\Common.DataLayer\obj\Debug\net6.0\ref\Common.DataLayer.dll
+C:\Mohamad Itani Microservices\Common.DataLayer\bin\Debug\net6.0\Common.DataLayer.deps.json
+C:\Mohamad Itani Microservices\Common.DataLayer\bin\Debug\net6.0\Common.DataLayer.dll
+C:\Mohamad Itani Microservices\Common.DataLayer\bin\Debug\net6.0\Common.DataLayer.pdb
+C:\Mohamad Itani Microservices\Common.DataLayer\obj\Debug\net6.0\Common.DataLayer.csproj.AssemblyReference.cache
+C:\Mohamad Itani Microservices\Common.DataLayer\obj\Debug\net6.0\Common.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mohamad Itani Microservices\Common.DataLayer\obj\Debug\net6.0\Common.DataLayer.AssemblyInfoInputs.cache
+C:\Mohamad Itani Microservices\Common.DataLayer\obj\Debug\net6.0\Common.DataLayer.AssemblyInfo.cs
+C:\Mohamad Itani Microservices\Common.DataLayer\obj\Debug\net6.0\Common.DataLayer.csproj.CoreCompileInputs.cache
+C:\Mohamad Itani Microservices\Common.DataLayer\obj\Debug\net6.0\Common.DataLayer.dll
+C:\Mohamad Itani Microservices\Common.DataLayer\obj\Debug\net6.0\refint\Common.DataLayer.dll
+C:\Mohamad Itani Microservices\Common.DataLayer\obj\Debug\net6.0\Common.DataLayer.pdb
+C:\Mohamad Itani Microservices\Common.DataLayer\obj\Debug\net6.0\ref\Common.DataLayer.dll
