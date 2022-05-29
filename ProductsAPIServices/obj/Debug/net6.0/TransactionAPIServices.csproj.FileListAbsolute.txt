@@ -1,0 +1,112 @@
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\TransactionAPIServices.exe
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\appsettings.Development.json
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\appsettings.json
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\TransactionAPIServices.deps.json
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\TransactionAPIServices.runtimeconfig.json
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\TransactionAPIServices.dll
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\TransactionAPIServices.pdb
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\Common.Utility.dll
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\Common.Utility.pdb
+C:\Middleware\ProductsAPIServices\obj\Debug\net6.0\TransactionAPIServices.csproj.AssemblyReference.cache
+C:\Middleware\ProductsAPIServices\obj\Debug\net6.0\TransactionAPIServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Middleware\ProductsAPIServices\obj\Debug\net6.0\TransactionAPIServices.AssemblyInfoInputs.cache
+C:\Middleware\ProductsAPIServices\obj\Debug\net6.0\TransactionAPIServices.AssemblyInfo.cs
+C:\Middleware\ProductsAPIServices\obj\Debug\net6.0\TransactionAPIServices.csproj.CoreCompileInputs.cache
+C:\Middleware\ProductsAPIServices\obj\Debug\net6.0\TransactionAPIServices.MvcApplicationPartsAssemblyInfo.cache
+C:\Middleware\ProductsAPIServices\obj\Debug\net6.0\TransactionAPIServices.csproj.CopyComplete
+C:\Middleware\ProductsAPIServices\obj\Debug\net6.0\TransactionAPIServices.dll
+C:\Middleware\ProductsAPIServices\obj\Debug\net6.0\refint\TransactionAPIServices.dll
+C:\Middleware\ProductsAPIServices\obj\Debug\net6.0\TransactionAPIServices.pdb
+C:\Middleware\ProductsAPIServices\obj\Debug\net6.0\TransactionAPIServices.genruntimeconfig.cache
+C:\Middleware\ProductsAPIServices\obj\Debug\net6.0\ref\TransactionAPIServices.dll
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\Common.DataLayer.dll
+C:\Middleware\ProductsAPIServices\bin\Debug\net6.0\Common.DataLayer.pdb
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\TransactionAPIServices.exe
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\appsettings.Development.json
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\appsettings.json
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\TransactionAPIServices.deps.json
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\TransactionAPIServices.runtimeconfig.json
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\TransactionAPIServices.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\TransactionAPIServices.pdb
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\Common.DataLayer.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\Common.Utility.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\Common.DataLayer.pdb
+C:\Mohamad Itani Microservices\ProductsAPIServices\bin\Debug\net6.0\Common.Utility.pdb
+C:\Mohamad Itani Microservices\ProductsAPIServices\obj\Debug\net6.0\TransactionAPIServices.csproj.AssemblyReference.cache
+C:\Mohamad Itani Microservices\ProductsAPIServices\obj\Debug\net6.0\TransactionAPIServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mohamad Itani Microservices\ProductsAPIServices\obj\Debug\net6.0\TransactionAPIServices.AssemblyInfoInputs.cache
+C:\Mohamad Itani Microservices\ProductsAPIServices\obj\Debug\net6.0\TransactionAPIServices.AssemblyInfo.cs
+C:\Mohamad Itani Microservices\ProductsAPIServices\obj\Debug\net6.0\TransactionAPIServices.csproj.CoreCompileInputs.cache
+C:\Mohamad Itani Microservices\ProductsAPIServices\obj\Debug\net6.0\TransactionAPIServices.MvcApplicationPartsAssemblyInfo.cache
+C:\Mohamad Itani Microservices\ProductsAPIServices\obj\Debug\net6.0\TransactionAPIServices.csproj.CopyComplete
+C:\Mohamad Itani Microservices\ProductsAPIServices\obj\Debug\net6.0\TransactionAPIServices.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\obj\Debug\net6.0\refint\TransactionAPIServices.dll
+C:\Mohamad Itani Microservices\ProductsAPIServices\obj\Debug\net6.0\TransactionAPIServices.pdb
+C:\Mohamad Itani Microservices\ProductsAPIServices\obj\Debug\net6.0\TransactionAPIServices.genruntimeconfig.cache
+C:\Mohamad Itani Microservices\ProductsAPIServices\obj\Debug\net6.0\ref\TransactionAPIServices.dll
