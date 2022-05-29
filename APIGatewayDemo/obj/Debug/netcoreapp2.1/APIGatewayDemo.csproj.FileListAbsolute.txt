@@ -1,0 +1,17 @@
+C:\Middleware\APIGatewayDemo\bin\Debug\netcoreapp2.1\routes.json
+C:\Middleware\APIGatewayDemo\bin\Debug\netcoreapp2.1\APIGatewayDemo.deps.json
+C:\Middleware\APIGatewayDemo\bin\Debug\netcoreapp2.1\APIGatewayDemo.runtimeconfig.json
+C:\Middleware\APIGatewayDemo\bin\Debug\netcoreapp2.1\APIGatewayDemo.runtimeconfig.dev.json
+C:\Middleware\APIGatewayDemo\bin\Debug\netcoreapp2.1\APIGatewayDemo.dll
+C:\Middleware\APIGatewayDemo\bin\Debug\netcoreapp2.1\APIGatewayDemo.pdb
+C:\Middleware\APIGatewayDemo\obj\Debug\netcoreapp2.1\APIGatewayDemo.csproj.AssemblyReference.cache
+C:\Middleware\APIGatewayDemo\obj\Debug\netcoreapp2.1\APIGatewayDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Middleware\APIGatewayDemo\obj\Debug\netcoreapp2.1\APIGatewayDemo.AssemblyInfoInputs.cache
+C:\Middleware\APIGatewayDemo\obj\Debug\netcoreapp2.1\APIGatewayDemo.AssemblyInfo.cs
+C:\Middleware\APIGatewayDemo\obj\Debug\netcoreapp2.1\APIGatewayDemo.csproj.CoreCompileInputs.cache
+C:\Middleware\APIGatewayDemo\obj\Debug\netcoreapp2.1\APIGatewayDemo.RazorAssemblyInfo.cache
+C:\Middleware\APIGatewayDemo\obj\Debug\netcoreapp2.1\APIGatewayDemo.RazorAssemblyInfo.cs
+C:\Middleware\APIGatewayDemo\obj\Debug\netcoreapp2.1\APIGatewayDemo.RazorTargetAssemblyInfo.cache
+C:\Middleware\APIGatewayDemo\obj\Debug\netcoreapp2.1\APIGatewayDemo.dll
+C:\Middleware\APIGatewayDemo\obj\Debug\netcoreapp2.1\APIGatewayDemo.pdb
+C:\Middleware\APIGatewayDemo\obj\Debug\netcoreapp2.1\APIGatewayDemo.genruntimeconfig.cache

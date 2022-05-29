@@ -1,0 +1,38 @@
+C:\Middleware\APIGatewayDemo\obj\Debug\net6.0\APIGatewayDemo.csproj.AssemblyReference.cache
+C:\Middleware\APIGatewayDemo\obj\Debug\net6.0\APIGatewayDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Middleware\APIGatewayDemo\obj\Debug\net6.0\APIGatewayDemo.AssemblyInfoInputs.cache
+C:\Middleware\APIGatewayDemo\obj\Debug\net6.0\APIGatewayDemo.AssemblyInfo.cs
+C:\Middleware\APIGatewayDemo\obj\Debug\net6.0\APIGatewayDemo.csproj.CoreCompileInputs.cache
+C:\Middleware\APIGatewayDemo\obj\Debug\net6.0\APIGatewayDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Middleware\APIGatewayDemo\bin\Debug\net6.0\routes.json
+C:\Middleware\APIGatewayDemo\bin\Debug\net6.0\APIGatewayDemo.exe
+C:\Middleware\APIGatewayDemo\bin\Debug\net6.0\APIGatewayDemo.deps.json
+C:\Middleware\APIGatewayDemo\bin\Debug\net6.0\APIGatewayDemo.runtimeconfig.json
+C:\Middleware\APIGatewayDemo\bin\Debug\net6.0\APIGatewayDemo.dll
+C:\Middleware\APIGatewayDemo\bin\Debug\net6.0\APIGatewayDemo.pdb
+C:\Middleware\APIGatewayDemo\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Middleware\APIGatewayDemo\obj\Debug\net6.0\APIGatewayDemo.csproj.CopyComplete
+C:\Middleware\APIGatewayDemo\obj\Debug\net6.0\APIGatewayDemo.dll
+C:\Middleware\APIGatewayDemo\obj\Debug\net6.0\refint\APIGatewayDemo.dll
+C:\Middleware\APIGatewayDemo\obj\Debug\net6.0\APIGatewayDemo.pdb
+C:\Middleware\APIGatewayDemo\obj\Debug\net6.0\APIGatewayDemo.genruntimeconfig.cache
+C:\Middleware\APIGatewayDemo\obj\Debug\net6.0\ref\APIGatewayDemo.dll
+C:\Mohamad Itani Microservices\APIGatewayDemo\bin\Debug\net6.0\routes.json
+C:\Mohamad Itani Microservices\APIGatewayDemo\bin\Debug\net6.0\APIGatewayDemo.exe
+C:\Mohamad Itani Microservices\APIGatewayDemo\bin\Debug\net6.0\APIGatewayDemo.deps.json
+C:\Mohamad Itani Microservices\APIGatewayDemo\bin\Debug\net6.0\APIGatewayDemo.runtimeconfig.json
+C:\Mohamad Itani Microservices\APIGatewayDemo\bin\Debug\net6.0\APIGatewayDemo.dll
+C:\Mohamad Itani Microservices\APIGatewayDemo\bin\Debug\net6.0\APIGatewayDemo.pdb
+C:\Mohamad Itani Microservices\APIGatewayDemo\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Mohamad Itani Microservices\APIGatewayDemo\obj\Debug\net6.0\APIGatewayDemo.csproj.AssemblyReference.cache
+C:\Mohamad Itani Microservices\APIGatewayDemo\obj\Debug\net6.0\APIGatewayDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mohamad Itani Microservices\APIGatewayDemo\obj\Debug\net6.0\APIGatewayDemo.AssemblyInfoInputs.cache
+C:\Mohamad Itani Microservices\APIGatewayDemo\obj\Debug\net6.0\APIGatewayDemo.AssemblyInfo.cs
+C:\Mohamad Itani Microservices\APIGatewayDemo\obj\Debug\net6.0\APIGatewayDemo.csproj.CoreCompileInputs.cache
+C:\Mohamad Itani Microservices\APIGatewayDemo\obj\Debug\net6.0\APIGatewayDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Mohamad Itani Microservices\APIGatewayDemo\obj\Debug\net6.0\APIGatewayDemo.csproj.CopyComplete
+C:\Mohamad Itani Microservices\APIGatewayDemo\obj\Debug\net6.0\APIGatewayDemo.dll
+C:\Mohamad Itani Microservices\APIGatewayDemo\obj\Debug\net6.0\refint\APIGatewayDemo.dll
+C:\Mohamad Itani Microservices\APIGatewayDemo\obj\Debug\net6.0\APIGatewayDemo.pdb
+C:\Mohamad Itani Microservices\APIGatewayDemo\obj\Debug\net6.0\APIGatewayDemo.genruntimeconfig.cache
+C:\Mohamad Itani Microservices\APIGatewayDemo\obj\Debug\net6.0\ref\APIGatewayDemo.dll

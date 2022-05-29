@@ -1,0 +1,34 @@
+{
+    "routes": [
+        {
+            // Entry Api end points to identify which service/API call
+            "endpoint": "/account",
+            // Call to Inner service/API end points to get/put/post
+            "destination": {
+                //"uri": "http://localhost:9001/api/account/", // console mode
+                "uri": "http://localhost:10001/api/account/", // debug mode
+                "requiresAuthentication": "true"
+            }
+        },
+        {
+            // Entry Api end points to identify which service/API call
+            "endpoint": "/customers",
+            // Call to Inner service/API end points to get/put/post
+            "destination": {
+                //"uri": "http://localhost:9001/api/customers/", // console mode
+                "uri": "http://localhost:10001/api/customers/", // debug mode
+                "requiresAuthentication": "true"
+            }
+        },
+        {
+            // Entry Api end points to identify which service/API call
+            "endpoint": "/products",
+            // Call to Inner service/API end points to get/put/post
+            "destination": {
+                //"uri": "http://localhost:9002/api/products/", // console mode
+                "uri": "http://localhost:10002/api/products/", // debug mode
+                "requiresAuthentication": "true"
+            }
+        }
+    ]
+}
